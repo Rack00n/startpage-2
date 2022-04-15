@@ -162,6 +162,10 @@
           {
             name: "Traveling Home",
             url: "/images/background08.png",
+          },
+          {
+            name: "Mount Fuji",
+            url: "/images/fuji.jpg",
           }
         ],
         isOptionsOpen: false,
